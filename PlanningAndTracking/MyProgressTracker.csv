@@ -1,0 +1,53 @@
+Week,Deliverable,Status,Priority,Time Est,Completed Date,Notes,Reference Link
+1,Supervised Algorithm Docs (2 done),Partial,Low,2h remaining,In Progress,2/4 algorithms complete,AI_Sprint_Deliverables_Summary.md#week-1
+1,Voice Recording + Transcript,Done,Low,,Completed,Assembly AI transcript ready,AI_Sprint_Deliverables_Summary.md#deliverable-4-voice-recording--transcript
+1,Loom Video (Saturday),Not Started,Low,2h,,,AI_Sprint_Deliverables_Summary.md#deliverable-2-loom-video-8-12-minutes
+1,Content Extraction (10-20),Not Started,Low,1h,,,AI_Sprint_Deliverables_Summary.md#deliverable-3-10-20-content-pieces
+1,Unsupervised Algorithm Docs,Not Started,Low,4h,,,AI_Sprint_Deliverables_Summary.md#deliverable-1-unsupervised-algorithm-thinking-docs
+1,Agentic System Design,Not Started,Low,3h,,,AI_Sprint_Deliverables_Summary.md#deliverable-2-agentic-system-design-document
+1,Loom Video (Sunday),Not Started,Low,2h,,,AI_Sprint_Deliverables_Summary.md#deliverable-3-loom-video-8-12-minutes-1
+1,Sunday Content (10-20),Not Started,Low,1h,,,AI_Sprint_Deliverables_Summary.md#deliverable-4-10-20-content-pieces-1
+2,LinkedIn Profile Overhaul,Done,High,,Completed,Before/after screenshots taken,AI_Sprint_Deliverables_Summary.md#deliverable-1-linkedin-profile-overhaul
+2,LinkedIn Posts (5),Done,Medium,,Completed,Week 3 posts completed,AI_Sprint_Deliverables_Summary.md#deliverable-2-linkedin-posts-5-posts-1day-mon-fri
+2,LinkedIn Comments (25),Done,Medium,,Completed,Week 3 comments done,AI_Sprint_Deliverables_Summary.md#deliverable-3-linkedin-comments-5day-25-total
+2,Dev.to Article 1,Not Started,High,2h,,Need to write from Week 1 insights,AI_Sprint_Deliverables_Summary.md#deliverable-4-devto-articles-2-articles
+2,Dev.to Article 2,Not Started,High,2h,,,AI_Sprint_Deliverables_Summary.md#deliverable-4-devto-articles-2-articles
+2,Master Doc Setup,Not Started,CRITICAL,2h,,START HERE - Foundation for everything,AI_Sprint_Deliverables_Summary.md#deliverable-5-master-doc-daily-update
+3,Offer Document (8 sections),Not Started,CRITICAL,3h,,Do Sections 1-3 first (Crowd/Outcome/Stack),AI_Sprint_Deliverables_Summary.md#deliverable-5-offer-document
+3,Domain Research (20 companies),Not Started,CRITICAL,2h,,Pick domain + research companies,My_Action_Plan.md#priority-3
+3,System Audit Template,Not Started,CRITICAL,1h,,Create reusable template,My_Action_Plan.md#priority-4
+3,System Audits (3 drafted),Not Started,High,2h,,Use template on 3 companies,My_Action_Plan.md#priority-4
+3,System Audits (12 more),Not Started,Medium,4h,,Create after first 3,AI_Sprint_Deliverables_Summary.md#deliverable-4-system-design--cold-audit-outreach-15-people
+3,Send First 3 Audits,Not Started,High,30min,,Send after drafting,My_Action_Plan.md#priority-4
+3,Send Remaining 12 Audits,Not Started,Medium,1h,,Spread over next week,AI_Sprint_Deliverables_Summary.md#deliverable-4-system-design--cold-audit-outreach-15-people
+4,LinkedIn Posts (5),Not Started,Low,2h,,Same as Week 3 - defer,AI_Sprint_Deliverables_Summary.md#week-4
+4,Dev.to Articles (2),Not Started,Low,4h,,Can reuse content from master doc,AI_Sprint_Deliverables_Summary.md#deliverable-2-devto-articles-2-articles-1
+4,Daily Comments (35),Not Started,Low,Daily 15min,,Make this a daily habit,AI_Sprint_Deliverables_Summary.md#deliverable-3-public-commenting-5day-1
+5.1,Problem Reconstruction,Not Started,Future,4h,,Do when you have 4-6 week block,AI_Sprint_Deliverables_Summary.md#deliverable-1-problem-reconstruction
+5.1,Research Tracking Setup,Not Started,High,1h,,Set up folder structure now,My_Action_Plan.md#priority-6
+5.1,Read First Paper (Generative Agents),Not Started,High,2h,,Start reading habit,My_Action_Plan.md#priority-6
+5.1,Productive Failure Baseline,Not Started,Future,6h,,Core engineering work,AI_Sprint_Deliverables_Summary.md#deliverable-3-productive-failure-baseline
+5.1,System Design Document,Not Started,Future,8h,,After baseline + research,AI_Sprint_Deliverables_Summary.md#deliverable-4-first-principles-system-design
+5.1,Genesis Workflow Setup,Not Started,Future,4h,,For implementation phase,AI_Sprint_Deliverables_Summary.md#deliverable-5-genesis-engineering-workflow
+5.1,Implementation + Verification,Not Started,Future,40h+,,Main engineering project,AI_Sprint_Deliverables_Summary.md#deliverable-6-implementation-and-independent-verification
+5.1,Engineering Journal,Not Started,Future,Daily,,Start when implementation begins,AI_Sprint_Deliverables_Summary.md#deliverable-7-engineering-journal-and-project-retrospective
+5.1,Knowledge Transfer,Not Started,Future,8h,,Final deliverable for Week 5.1,AI_Sprint_Deliverables_Summary.md#deliverable-8-knowledge-transfer-and-contribution
+5.2,Career Positioning Document,Not Started,Future,4h,,Do after getting audit responses,AI_Sprint_Deliverables_Summary.md#deliverable-1-ai-career-positioning-document
+5.2,Target Market Research,Not Started,Future,3h,,Wait for real market feedback,AI_Sprint_Deliverables_Summary.md#deliverable-2-target-market-research
+5.2,Market Research Report,Not Started,Future,4h,,Evidence-based after conversations,AI_Sprint_Deliverables_Summary.md#deliverable-3-market-research-report
+5.2,Outreach Campaign (SBL),Not Started,Future,2h,,Set up after manual outreach works,AI_Sprint_Deliverables_Summary.md#deliverable-4-personalized-outreach-campaign
+5.2,Domain Knowledge Report,Not Started,Future,3h,,Build as you learn domain,AI_Sprint_Deliverables_Summary.md#deliverable-5-domain-knowledge-report-3-5-pages
+5.2,Personal Positioning,Not Started,Future,2h,,Refine after market validation,AI_Sprint_Deliverables_Summary.md#deliverable-6-personal-positioning
+
+DAILY HABITS,,,,,,,
+Daily,Master Doc Update,Not Started,CRITICAL,10min daily,,Log: LEARNED/DID/OPINION/MISTAKE,My_Action_Plan.md#daily-habits
+Daily,LinkedIn Comments (5),Not Started,High,15min daily,,Meaningful comments with opinions,My_Action_Plan.md#daily-habits
+Daily,Audit Research Notes,Not Started,Medium,10min daily,,Note interesting companies/people,My_Action_Plan.md#daily-habits
+
+NEXT 2 DAYS FOCUS,,,,,,,
+Day 1 AM,Master Doc Setup + Backfill,Not Started,CRITICAL,2h,,START HERE,My_Action_Plan.md#priority-1
+Day 1 PM,Offer Document (Sections 1-3),Not Started,CRITICAL,3h,,Starving Crowd + Dream Outcome + Value Stack,My_Action_Plan.md#priority-2
+Day 1 Eve,Domain Research (20 companies),Not Started,CRITICAL,2h,,Pick domain + spreadsheet,My_Action_Plan.md#priority-3
+Day 2 AM,System Audit Template + 3 Audits,Not Started,CRITICAL,3h,,Create template + draft 3,My_Action_Plan.md#priority-4
+Day 2 PM,Dev.to Article from Week 1,Not Started,High,2h,,Write + humanize + publish,My_Action_Plan.md#priority-5
+Day 2 Eve,Research Tracking Setup,Not Started,High,1h,,Prepare for Week 5.1,My_Action_Plan.md#priority-6

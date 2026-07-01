@@ -1,0 +1,23 @@
+﻿# Large media files
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.wav
+*.m4a
+*.zip
+*.rar
+*.7z
+
+# Private/sensitive
+*_private.*
+*_confidential.*
+.env
+secrets/
+api_keys/
+
+# Temp files
+*.tmp
+*~
+.DS_Store
+Thumbs.db
